@@ -1,10 +1,8 @@
 # r_BKI_TK2023
-A script for randomized Block Krylov Iteration based Tucker decomposition
+A script for efficient Tucker decomposition based on randomized Block Krylov Iteration
 
-% If you found this code helpful, please cite the work below:
+If you found this code helpful, please cite the work below:
 
-% title={Towards Efficient and Accurate Approximation: Tensor Decomposition Based on Randomized Block Krylov Iteration}, 
+Qiu, Y., Sun, W., Zhou, G. et al. Towards efficient and accurate approximation: tensor decomposition based on randomized block Krylov iteration. SIViP (2024). https://doi.org/10.1007/s11760-024-03315-w
 
-% author={Yichun Qiu and Weijun Sun and Guoxu Zhou and Qibin Zhao}
-
-% Please feel free to contact me at ycqiu@gdut.edu.cn
+Please feel free to contact me at ycqiu@gdut.edu.cn
